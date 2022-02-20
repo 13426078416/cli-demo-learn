@@ -1,0 +1,25 @@
+{
+  "name": "cli-demo-learn",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bin": {
+    "cli-demo-learn": "./index.js"
+  },
+  "author": "liuying0112",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "clear": "^0.1.0",
+    "commander": "^9.0.0",
+    "ejs": "^3.1.6",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "metalsmith": "^2.4.2",
+    "ts-node": "^10.5.0"
+  }
+}
